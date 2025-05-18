@@ -12,7 +12,7 @@ list_of_files = [
     "app.py",
     "setup.py",
     "research/trials.ipynb",
-    "README.md"  # Added README.md to the list
+    "README.md"  
 ]
 
 def main():

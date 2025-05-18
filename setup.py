@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="legalconect-bot",  
+    name="legalconnect-bot",  
     version="0.0.0",
     author="Samuel Kyeremeh",
     author_email="affum3331@gmail.com",
